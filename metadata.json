@@ -1,0 +1,5 @@
+{
+  "name": "Lumina - AI Virtual Try-On",
+  "description": "A premium fashion experience allowing users to virtually try on clothing items using their own photos powered by Gemini AI.",
+  "requestFramePermissions": []
+}
